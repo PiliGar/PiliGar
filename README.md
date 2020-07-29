@@ -1,1 +1,3 @@
 # PiliGar
+
+![Screenshot](video.gif)
