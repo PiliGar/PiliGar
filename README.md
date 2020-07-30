@@ -15,6 +15,7 @@ Now my goal is to keep **specializing in Front End Development** with Javascript
 ---
 
 [📍LinkedIn](https://www.linkedin.com/in/pilargarciacampo)
+<br>
 [📍Website](https://www.pilargarciacampo.com)
 
-💜Thank you for visiting my github
+Welcome and thank you for visiting my github 💜
