@@ -1,6 +1,6 @@
-# Hola! 👋 I'm Pilar!
+# 👋 Hola!
 
-![Hi I'm UI Designer and Front End Developer](https://github.com/PiliGar/PiliGar/raw/master/video.gif)
+![Hi I'm UI Designer and Front End Developer](https://github.com/PiliGar/PiliGar/raw/master/video2.gif)
 
 I'm a UI Designer and Front End Developer based in Madrid.
 
@@ -10,12 +10,23 @@ After +5 years of experience combining my skills of usability, user interface de
 
 Now my goal is to keep **specializing in Front End Development** with Javascript (React.js) and face new projects where I can add value and keep learning.
 
-### Where to find me
+### What will you find here
 
 ---
 
-[📍LinkedIn](https://www.linkedin.com/in/pilargarciacampo)
-<br>
-[📍Website](https://www.pilargarciacampo.com)
+![#2fc4ba](https://via.placeholder.com/15/2fc4ba/000000?text=+) `Pesonal projects`
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Learning Labs`
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Traning repos`
 
-Welcome and thank you for visiting my github 💜
+### More info about me
+
+---
+
+[👉🏼LinkedIn](https://www.linkedin.com/in/pilargarciacampo)
+<br>
+<br>
+[👉🏼Website](https://www.pilargarciacampo.com)
+
+```diff
+@@ Welcome and thank you for visiting my github! 💜@@
+```
