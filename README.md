@@ -14,7 +14,7 @@ Now my goal is to keep **specializing in Front End Development** with Javascript
 <br>
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Learning Labs`
 <br>
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Traning repos`
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Training repos`
 <br>
 
 ## More info about me
