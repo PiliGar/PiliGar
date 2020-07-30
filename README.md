@@ -15,18 +15,21 @@ Now my goal is to keep **specializing in Front End Development** with Javascript
 ---
 
 ![#2fc4ba](https://via.placeholder.com/15/2fc4ba/000000?text=+) `Pesonal projects`
+<br>
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Learning Labs`
+<br>
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Traning repos`
+<br>
 
 ### More info about me
 
 ---
 
-[👉🏼LinkedIn](https://www.linkedin.com/in/pilargarciacampo)
+👉🏼[LinkedIn](https://www.linkedin.com/in/pilargarciacampo)
 <br>
+👉🏼 [Website](https://www.pilargarciacampo.com)
 <br>
-[👉🏼Website](https://www.pilargarciacampo.com)
 
-```diff
-@@ Welcome and thank you for visiting my github! 💜@@
-```
+---
+
+Welcome and thank you for visiting my github! 💜
